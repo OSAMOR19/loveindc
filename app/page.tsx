@@ -256,7 +256,7 @@ export default function WeddingWebsite() {
                       <div className="mt-6 pt-4 border-t border-slate-100">
                         <div className="text-center">
                           <span className="text-2xl">💍</span>
-                          <p className="text-xs text-slate-500 mt-1">May 22nd, 2026</p>
+                          <p className="text-xs text-slate-500 mt-1">May 22nd, 2025</p>
                         </div>
                       </div>
                     </div>
@@ -388,7 +388,7 @@ export default function WeddingWebsite() {
                   animate={{ opacity: 1, y: 0 }}
                   transition={{ duration: 1, delay: 8000 }}
                 >
-                  <p className="text-lg sm:text-2xl md:text-3xl font-light mb-3 sm:mb-4">May 22nd, 2026 at 2PM</p>
+                  <p className="text-lg sm:text-2xl md:text-3xl font-light mb-3 sm:mb-4">May 22nd, 2025 at 2PM</p>
                   <p className="text-sm sm:text-lg md:text-xl text-white/90 max-w-2xl mx-auto px-4">
                     Marcellinas Place, 36 Isaac John Street, Ikeja GRA, Lagos
                   </p>
@@ -548,7 +548,7 @@ export default function WeddingWebsite() {
                         <Calendar className="w-6 h-6 sm:w-8 sm:h-8 text-slate-600 flex-shrink-0" />
                         <div>
                           <h3 className="text-xl sm:text-2xl font-serif text-slate-800">Date & Time</h3>
-                          <p className="text-base sm:text-lg text-slate-600">May 22nd, 2026 at 2:00 PM</p>
+                          <p className="text-base sm:text-lg text-slate-600">May 22nd, 2025 at 2:00 PM</p>
                         </div>
                       </div>
 
@@ -784,7 +784,7 @@ export default function WeddingWebsite() {
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <div className="mb-6 sm:mb-8">
             <h3 className="text-2xl sm:text-3xl font-serif italic mb-4">Candice & Oluwadamilare</h3>
-            <p className="text-slate-300 mb-4 sm:mb-6">May 22nd, 2026</p>
+            <p className="text-slate-300 mb-4 sm:mb-6">May 22nd, 2025</p>
             <Badge variant="outline" className="border-white text-white">
               #loveinDC26
             </Badge>
