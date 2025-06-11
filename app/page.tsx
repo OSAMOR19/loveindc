@@ -620,7 +620,7 @@ export default function WeddingWebsite() {
                   variant="outline"
                   className="text-base sm:text-lg px-4 sm:px-6 py-2 border-slate-400 text-slate-700"
                 >
-                  #loveinDC26
+                  #loveinDC25
                 </Badge>
                 <p className="mt-4 text-sm sm:text-base text-slate-600">Share your photos with our wedding hashtag!</p>
               </motion.div>
@@ -786,7 +786,7 @@ export default function WeddingWebsite() {
             <h3 className="text-2xl sm:text-3xl font-serif italic mb-4">Candice & Oluwadamilare</h3>
             <p className="text-slate-300 mb-4 sm:mb-6">May 22nd, 2025</p>
             <Badge variant="outline" className="border-white text-white">
-              #loveinDC26
+              #loveinDC25
             </Badge>
           </div>
 
