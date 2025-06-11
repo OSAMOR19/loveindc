@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react"
 import { motion, AnimatePresence } from "framer-motion"
-import { Calendar, MapPin, Heart, Gift, MessageCircle, Clock, Instagram, Twitter } from "lucide-react"
+import { Calendar, MapPin, Heart, Gift, MessageCircle, Clock, Instagram, Twitter, Youtube } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
 import { Input } from "@/components/ui/input"
@@ -791,13 +791,17 @@ export default function WeddingWebsite() {
           </div>
 
           <div className="flex flex-col sm:flex-row justify-center space-y-2 sm:space-y-0 sm:space-x-6 mb-6 sm:mb-8">
-            <Button variant="ghost" size="sm" className="text-white hover:text-slate-300">
+            <Button variant="ghost" href="https://www.instagram.com/darey_oni?igsh=MTdvZ2xjMGdreXdlbg%3D%3D&utm_source=qr" size="sm" className="text-white hover:text-slate-300">
               <Instagram className="w-4 h-4 sm:w-5 sm:h-5 mr-2" />
               Instagram
             </Button>
             <Button variant="ghost" size="sm" className="text-white hover:text-slate-300">
               <Twitter className="w-4 h-4 sm:w-5 sm:h-5 mr-2" />
               Twitter
+            </Button>
+            <Button variant="ghost" href="https://www.youtube.com/@Candrey24" size="sm" className="text-white hover:text-slate-300">
+              <Youtube className="w-4 h-4 sm:w-5 sm:h-5 mr-2" />
+              Youtube
             </Button>
             <Button variant="ghost" size="sm" className="text-white hover:text-slate-300">
               <Gift className="w-4 h-4 sm:w-5 sm:h-5 mr-2" />
