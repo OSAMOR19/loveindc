@@ -100,7 +100,7 @@ export default function WeddingWebsite() {
 
   // Countdown timer
   useEffect(() => {
-    const weddingDate = new Date("2026-05-22T14:00:00")
+    const weddingDate = new Date("2025-05-22T14:00:00")
 
     const timer = setInterval(() => {
       const now = new Date().getTime()
